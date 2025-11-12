@@ -2,7 +2,7 @@
 # Zambas (Python) — Core
 This is a python module that contains geospatial calculations, 
 these include geodetic, surveying, and GIS.
-The idea of this project is to translate the orginal ZAMBAS code written in BASIC
+The idea of this project is to translate the original ZAMBAS code written in BASIC
 to python to promote the use of traditional methods into a modern applications and new projects.
 Read the module, and add any geospatial methods that you would like to see modernized.
 
